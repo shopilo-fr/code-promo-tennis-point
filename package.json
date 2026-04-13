@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-tennis-point",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Tennis-Point depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-tennis-point",
+    "bon-de-reduction-tennis-point",
+    "coupon-tennis-point",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/tennis-point.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-tennis-point.git"
+  }
+}
